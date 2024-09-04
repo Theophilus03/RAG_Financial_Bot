@@ -1,5 +1,6 @@
 # RAG_Financial_Bot
-![Untitled Diagram drawio](https://github.com/user-attachments/assets/56137029-b6ba-46cb-a093-9684144a7d56)
+![Untitled Diagram drawio](https://github.com/user-attachments/assets/583f000a-aff2-4e9a-9b83-b5d6ace021fc)
+
 Investors and traders often perform fundamental analysis to evaluate a company’s financial health and assess its value before making investment decisions. In this article, we’ll walk through a step-by-step guide on how to conduct fundamental analysis of a stock by:
 1. Web scraping financial data from Yahoo Finance
 2. Visualizing the financial metrics using Matplotlib
@@ -14,7 +15,7 @@ how to access streamlit in colab:
 2. input the Tunnel Password from step one's ipv4.icanhazim.com
 ![2](https://github.com/user-attachments/assets/4b2e9565-6d32-4e4a-96e9-874e967b5d92)
 
-#Result
+# Result
 ![home](https://github.com/user-attachments/assets/f0ec4a08-22e6-4f58-95cb-46fe52bf60a9)
 ![result 1](https://github.com/user-attachments/assets/b7496275-de05-44de-9ce2-a69345d5f62a)
 ![result 2](https://github.com/user-attachments/assets/282f5ad5-348c-4cb7-8d38-6a0779b612d3)
